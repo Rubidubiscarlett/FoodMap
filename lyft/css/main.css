@@ -1,0 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ .splash-background{
+   background-image: url("../assets/img/splash.png");
+ }
